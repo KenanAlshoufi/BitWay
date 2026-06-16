@@ -60,7 +60,8 @@ cd project
 2. Modify the App.config file to connect to the database. (User ID, Password).
 </pre> 
 
-<img width="946" height="83" alt="image" src="https://github.com/user-attachments/assets/9d02597a-e470-473b-93c0-6d472c83d9b9" />
+<img width="916" height="81" alt="image" src="https://github.com/user-attachments/assets/a1b9d0e6-c57b-4a50-8312-b41e6297fa27" />
+
 
 </pre> 
 <br>
