@@ -3,8 +3,6 @@
 
 #### The project is a simple electronic wallet with basic operations such as sending, receiving, and depositing funds using various methods. The project is still in the development phase.
 
-### 🧾 Main menu 
-<img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/27e8d142-bba7-4762-928e-b442d0d020e6" />
 
 
 ### 👤 Create Account
@@ -22,6 +20,10 @@
 - Send to Other Account
 - Receive
 - Deposit
+
+- ### 🧾 Main menu 
+<img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/27e8d142-bba7-4762-928e-b442d0d020e6" />
+
 
 ### ✨ Features
 
@@ -58,7 +60,8 @@ cd project
 2. Modify the App.config file to connect to the database. (User ID, Password).
 </pre> 
 
-<img width="946" height="83" alt="image" src="https://github.com/user-attachments/assets/9d02597a-e470-473b-93c0-6d472c83d9b9" />
+<img width="916" height="81" alt="image" src="https://github.com/user-attachments/assets/a1b9d0e6-c57b-4a50-8312-b41e6297fa27" />
+
 
 </pre> 
 <br>
