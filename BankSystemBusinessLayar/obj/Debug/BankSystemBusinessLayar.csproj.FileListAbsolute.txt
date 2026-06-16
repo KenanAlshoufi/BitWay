@@ -1,0 +1,10 @@
+D:\My Project\Bank System\BankSystemBusinessLayar\bin\Debug\BankSystemBusinessLayar.dll
+D:\My Project\Bank System\BankSystemBusinessLayar\bin\Debug\BankSystemBusinessLayar.pdb
+D:\My Project\Bank System\BankSystemBusinessLayar\bin\Debug\BankSystemDataAccessLayar.dll
+D:\My Project\Bank System\BankSystemBusinessLayar\bin\Debug\BankSystemDataAccessLayar.pdb
+D:\My Project\Bank System\BankSystemBusinessLayar\obj\Debug\BankSystemBusinessLayar.csproj.AssemblyReference.cache
+D:\My Project\Bank System\BankSystemBusinessLayar\obj\Debug\BankSystemBusinessLayar.csproj.CoreCompileInputs.cache
+D:\My Project\Bank System\BankSystemBusinessLayar\obj\Debug\BankSyst.F7F50534.Up2Date
+D:\My Project\Bank System\BankSystemBusinessLayar\obj\Debug\BankSystemBusinessLayar.dll
+D:\My Project\Bank System\BankSystemBusinessLayar\obj\Debug\BankSystemBusinessLayar.pdb
+D:\My Project\Bank System\BankSystemBusinessLayar\bin\Debug\QRCoder.dll

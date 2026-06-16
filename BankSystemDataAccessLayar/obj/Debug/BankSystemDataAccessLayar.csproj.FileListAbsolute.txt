@@ -1,0 +1,6 @@
+D:\My Project\Bank System\BankSystemDataAccessLayar\bin\Debug\BankSystemDataAccessLayar.dll
+D:\My Project\Bank System\BankSystemDataAccessLayar\bin\Debug\BankSystemDataAccessLayar.pdb
+D:\My Project\Bank System\BankSystemDataAccessLayar\obj\Debug\BankSystemDataAccessLayar.csproj.AssemblyReference.cache
+D:\My Project\Bank System\BankSystemDataAccessLayar\obj\Debug\BankSystemDataAccessLayar.csproj.CoreCompileInputs.cache
+D:\My Project\Bank System\BankSystemDataAccessLayar\obj\Debug\BankSystemDataAccessLayar.dll
+D:\My Project\Bank System\BankSystemDataAccessLayar\obj\Debug\BankSystemDataAccessLayar.pdb

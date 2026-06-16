@@ -1,0 +1,27 @@
+D:\My Project\Bank System\Bank System\bin\Debug\Bank System.exe.config
+D:\My Project\Bank System\Bank System\bin\Debug\Bank System.exe
+D:\My Project\Bank System\Bank System\bin\Debug\Bank System.pdb
+D:\My Project\Bank System\Bank System\bin\Debug\BankSystemBusinessLayar.dll
+D:\My Project\Bank System\Bank System\bin\Debug\BankSystemBusinessLayar.pdb
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\My Project\Bank System\Bank System\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.exe
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.pdb
+D:\My Project\Bank System\Bank System\obj\Debug\Bank System.exe.config
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.Main.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmProfile.resources
+D:\My Project\Bank System\Bank System\bin\Debug\BankSystemDataAccessLayar.dll
+D:\My Project\Bank System\Bank System\bin\Debug\BankSystemDataAccessLayar.pdb
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmTest.resources
+D:\My Project\Bank System\Bank System\bin\Debug\MyFirstControlLibrary.dll
+D:\My Project\Bank System\Bank System\bin\Debug\QRCoder.dll
+D:\My Project\Bank System\Bank System\bin\Debug\MyFirstControlLibrary.pdb
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmEditPerson.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmLogin.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmCreateAccount.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmSend.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmReceive.resources
+D:\My Project\Bank System\Bank System\obj\Debug\Bank_System.frmRecord.resources
