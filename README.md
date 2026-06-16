@@ -3,8 +3,6 @@
 
 #### The project is a simple electronic wallet with basic operations such as sending, receiving, and depositing funds using various methods. The project is still in the development phase.
 
-### 🧾 Main menu 
-<img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/27e8d142-bba7-4762-928e-b442d0d020e6" />
 
 
 ### 👤 Create Account
@@ -22,6 +20,10 @@
 - Send to Other Account
 - Receive
 - Deposit
+
+- ### 🧾 Main menu 
+<img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/27e8d142-bba7-4762-928e-b442d0d020e6" />
+
 
 ### ✨ Features
 
