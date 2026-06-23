@@ -14,14 +14,15 @@
    Required steps for account verification :
 - Address
 - ID photo
-  
+ #### 🕑 (The account will be verified after a specified period.)
+<br>
 
-###  Transfer operations
+### Transfer operations
 - Send to Other Account
 - Receive
 - Deposit
 
-- ### 🧾 Main menu 
+### 🧾 Main menu 
 <img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/27e8d142-bba7-4762-928e-b442d0d020e6" />
 
 
