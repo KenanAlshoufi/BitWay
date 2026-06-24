@@ -3,7 +3,7 @@
 
 #### The project is a simple electronic wallet with basic operations such as sending, receiving, and depositing funds using various methods. The project is still in the development phase.
 
-
+#### (The program relies heavily on T-SQL.)
 
 ### 👤 Create Account
 - Enter personal information
